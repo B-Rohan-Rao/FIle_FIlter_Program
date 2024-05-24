@@ -1,8 +1,7 @@
-# FIle_FIlter_Program
+# File Filter Program
 
-This program filters the file based on their extension.
-(txt,pdf,png,jpg,jpeg)
+This program filters files based on their extensions (txt, pdf, png, jpg, jpeg).
 
-desktop_path -> This is the general path that I have chosen to keep my files. you can choose your own path
-target_dir_name -> This is the name of the file that I want t create where the filterd file will be saved.
-source_folder-> This is the path of the file where all the files are initially placed.
+- **desktop_path**: The general path where I choose to keep my files. You can select your own path.
+- **target_dir_name**: The name of the directory where the filtered files will be saved.
+- **source_folder**: The path of the directory where all the files are initially placed.
